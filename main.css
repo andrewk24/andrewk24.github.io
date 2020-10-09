@@ -1,0 +1,12 @@
+@font-face {
+font-family: "PTS";
+src: url("PTSans-Regular.ttf");
+}
+
+div.sidenav {
+  width: 20%;
+  margin: left;
+  border: 2px solid #20008a;
+}
+
+a {font-family: "PTS"}
