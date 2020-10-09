@@ -9,5 +9,10 @@ div.sidenav {
   border: 2px solid #20008a;
 }
 
+body {
+  background-image: linear-gradient(to right, #d1ffd1, #c4e9f5);
+}
+
+
 a {font-family: "PTS"}
 h1 {font-family: "PTS"}
