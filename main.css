@@ -1,18 +1,31 @@
 @font-face {
-font-family: "PTS";
-src: url("PTSans-Regular.ttf");
+	font-family: "PTS";
+	src: url("PTSans-Regular.ttf");
 }
 
-div.sidenav {
-  width: 20%;
-  margin: left;
-  border: 2px solid #20008a;
+@font-face {
+	font-family: "TI-84";
+	src: url("ti-calculator-font.ttf")
+}
+
+#header {
+	text-align: center;
+	border-style: groove;
+	border-color: rgb(190,210,190);
+	font-family: "PTS";
+}
+
+#sidenav {
+	width: 20%;
+	margin: left;
+	border: 15px solid rgb(210,230,210);
+	background-color: rgb(190,210,190);
+	border-radius: 5px;
+	position: fixed;
+	overflow: auto;
 }
 
 body {
-  background-image: linear-gradient(to right, #d1ffd1, #c4e9f5);
+	background-image: linear-gradient(to right, #d1ffd1, #c4e9f5);
 }
-
-
-a {font-family: "PTS"}
-h1 {font-family: "PTS"}
+a {}
