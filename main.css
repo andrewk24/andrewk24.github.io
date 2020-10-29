@@ -26,7 +26,7 @@
 	border: 15px solid rgb(210,230,210);
 	background-color: rgb(190,210,190);
 	border-radius: 5px;
-	position: fixed;
+	#position: fixed;
 	overflow: auto;
 	line-height: 120%;
 }
