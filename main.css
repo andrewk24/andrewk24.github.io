@@ -21,7 +21,7 @@
 
 #sidenav {
 	font-family: "TI-84";
-	width: 300px;
+	text-align:center;
 	margin: left;
 	border: 15px solid rgb(210,230,210);
 	background-color: rgb(190,210,190);
