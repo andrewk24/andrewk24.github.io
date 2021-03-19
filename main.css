@@ -38,6 +38,7 @@
 body {
 	background-image: linear-gradient(to right, #d1ffd1, #c4e9f5);
 	font-family: "PTS";
+	scroll-behavior: smooth;
 }
 
 div {
