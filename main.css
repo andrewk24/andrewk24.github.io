@@ -40,6 +40,10 @@ body {
 	font-family: "PTS";
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 div {
 	#border: 1px solid #000000;
 }
