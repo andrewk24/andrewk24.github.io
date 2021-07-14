@@ -3,11 +3,6 @@
 	src: url("PTSans-Regular.ttf");
 }
 
-@font-face {
-	font-family: "TI-84";
-	src: url("ti-calculator-font.ttf")
-}
-
 body {
 	background-image: linear-gradient(to right, #d1ffd1, #c4e9f5);
 	font-family: "PTS";
